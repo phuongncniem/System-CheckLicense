@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerCheckUpdateLicense", "ServerCheckUpdateLicense\ServerCheckUpdateLicense.csproj", "{5D99109F-D364-423B-819B-B94BA4919799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientTest", "ClientTest\ClientTest.csproj", "{5F00E938-DE81-4E2B-A3E0-96535EB97494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D99109F-D364-423B-819B-B94BA4919799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D99109F-D364-423B-819B-B94BA4919799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D99109F-D364-423B-819B-B94BA4919799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D99109F-D364-423B-819B-B94BA4919799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F00E938-DE81-4E2B-A3E0-96535EB97494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F00E938-DE81-4E2B-A3E0-96535EB97494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F00E938-DE81-4E2B-A3E0-96535EB97494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F00E938-DE81-4E2B-A3E0-96535EB97494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28F527E1-77E5-474E-ABEB-C71D8DEDBB84}
+	EndGlobalSection
+EndGlobal
